@@ -1,0 +1,25 @@
+id,condition,acuteness
+iBAQ P1,Pneumonia,Mild
+iBAQ P2,Pneumonia,Severe
+iBAQ P3,Pneumonia,Severe
+iBAQ P4,Pneumonia,Mild
+iBAQ P5,Pneumonia,Severe
+iBAQ P6,Pneumonia,Severe
+iBAQ P7,Pneumonia,Mild
+iBAQ P8,Pneumonia,Severe
+iBAQ P9,Pneumonia,Severe
+iBAQ P10,Pneumonia,Mild
+iBAQ P11,Pneumonia,Mild
+iBAQ P12,Pneumonia,Mild
+iBAQ H1,Healthy,Healthy
+iBAQ H2,Healthy,Healthy
+iBAQ H3,Healthy,Healthy
+iBAQ H4,Healthy,Healthy
+iBAQ H5,Healthy,Healthy
+iBAQ H6,Healthy,Healthy
+iBAQ H7,Healthy,Healthy
+iBAQ H8,Healthy,Healthy
+iBAQ H9,Healthy,Healthy
+iBAQ H10,Healthy,Healthy
+iBAQ H11,Healthy,Healthy
+iBAQ H12,Healthy,Healthy

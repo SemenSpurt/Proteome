@@ -1,0 +1,25 @@
+id,sex,age,condition,acuteness,virus_infection_intensity,bacterial_infection_intensity
+iBAQ P1,ж,,Pneumonia,Mild,High,High
+iBAQ P2,м,14.0,Pneumonia,Severe,Low,High
+iBAQ P3,м,8.0,Pneumonia,Severe,Low,Low
+iBAQ P4,ж,10.0,Pneumonia,Mild,,Low
+iBAQ P5,м,7.0,Pneumonia,Severe,High,High
+iBAQ P6,м,14.0,Pneumonia,Severe,Low,Low
+iBAQ P7,м,11.0,Pneumonia,Mild,Low,High
+iBAQ P8,м,10.0,Pneumonia,Severe,High,High
+iBAQ P9,ж,6.0,Pneumonia,Severe,High,Low
+iBAQ P10,ж,1.0,Pneumonia,Mild,Low,Low
+iBAQ P11,ж,,Pneumonia,Mild,High,High
+iBAQ P12,ж,24.0,Pneumonia,Mild,High,
+iBAQ H1,м,6.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H2,ж,7.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H3,м,7.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H4,м,6.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H5,м,6.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H6,ж,11.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H7,м,10.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H8,м,6.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H9,ж,7.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H10,ж,6.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H11,м,6.0,Healthy,Healthy,Healthy,Healthy
+iBAQ H12,ж,7.0,Healthy,Healthy,Healthy,Healthy
